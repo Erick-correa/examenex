@@ -1,0 +1,1 @@
+Este proyecto al momento de iniciarlo o correlo puedes poner alguna palabra u oracion y este te va a contar cuantas letras tiene de esta forma puede saber el tamaño de la oracion por medio de cuantas letras tiene tambien se puede saber el numero de vocales y el numero de palabras que tiene tu oracion
